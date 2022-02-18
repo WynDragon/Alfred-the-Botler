@@ -44,7 +44,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
 			case 'info':
 				bot.sendMessage({
 					to: channelID,
-					message: 'Greetings! I am Alfred the Botler, your helpful server servant. My commands begin with ! and are ping, info, kick, ban, traderequest, missionhelprequest, meme, joke, and sing.'
+					message: 'Greetings! I am Alfred the Botler, your helpful server servant. My commands begin with ! and are ping, info, kick, ban, meme, joke, and sing.'
 				});
 				break;
 			// Just add any case commands if you want to..

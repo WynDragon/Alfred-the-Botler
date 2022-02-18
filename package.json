@@ -1,0 +1,15 @@
+{
+
+“name”: “Alfred-the-Botler”,
+
+“version”: “1.0.0”,
+
+“description”: “He's a handy dandy servant bot here to help you with your server needs”,
+
+“main”: “bot.js”,
+
+“author”: “FeatheredDragon”,
+
+“dependencies”: {}
+
+}

@@ -9,3 +9,18 @@ Commands:
 !meme
 !joke
 !sing
+
+Command Information:
+!ping - makes bot reply with "pong!"
+
+!info - Alfred replies with a general statement and lists commands.
+
+!kick - command usage: !kick (discord user id) - kicks user from server  [WIP]
+
+!ban - command usage: !ban (discord user id) - bans user from server [WIP]
+
+!meme - Alfred will post a random meme. [WIP]
+
+!joke - Alfred tells a random joke. [WIP]
+ 
+!sing - command usage: !sing (song title) - Alfred scours the internet for you in order to give you a song from youtube. [WIP]

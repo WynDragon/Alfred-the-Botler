@@ -1,2 +1,4 @@
 #ignore the token folder
 Alfred_Code_Sauce/auth.json
+.env
+node_modules

@@ -9,6 +9,7 @@ Commands:
 !meme
 !joke
 !sing
+!sprint
 
 Command Information:
 !ping - makes bot reply with "pong!"
@@ -23,4 +24,7 @@ Command Information:
 
 !joke - Alfred tells a random joke. [WIP]
  
-!sing - command usage: !sing (song title) - Alfred scours the internet for you in order to give you a song from youtube. [WIP]
+!sing - command usage: !sing (url of song or playlist) - Alfred scours the internet for you in order to give you a song from youtube or spotify. [WIP]
+
+!sprint - Alfred will host a writing sprint for you. Command usage: !sprint {time to sprint for} {how many minutes from now you would like the sprint to start}
+Alternative uses for !sprint include !sprint {time} or simply !sprint, in which case the next sprint will begin in 60 seconds. Sprints default to 15 minutes if no time is designated.  [WI{]
